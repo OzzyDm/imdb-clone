@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import Results from "@/app/components/Results";
 
 async function searchPage({ params }) {
