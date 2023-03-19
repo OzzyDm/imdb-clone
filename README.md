@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">IMDb Clone</h1>
 <h2 align="center">
     <a href="https://oguzhandemiraslan.dev/" target="_blank">Oguzhan Demiraslan</a>
