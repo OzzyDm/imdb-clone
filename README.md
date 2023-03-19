@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">IMDb Clone</h1>
 <h2 align="center">
     <a href="https://oguzhandemiraslan.dev/" target="_blank">Oguzhan Demiraslan</a>
@@ -27,3 +28,8 @@ This project was built using these technologies;
 **🎨 Styled with Tailwind CSS, react-icons**
 
 **📱 Fully Responsive**
+=======
+<h1 align="center">IMDb Clone</h1> 
+
+This is IMDb clone website. You can search for movies, find their descriptions and ratings. Change color theme if you like!
+>>>>>>> 0185ff579ddc285f6ebb1f81f64dcd1336239523
