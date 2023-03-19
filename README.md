@@ -29,7 +29,3 @@ This project was built using these technologies;
 
 **📱 Fully Responsive**
 =======
-<h1 align="center">IMDb Clone</h1> 
-
-This is IMDb clone website. You can search for movies, find their descriptions and ratings. Change color theme if you like!
->>>>>>> 0185ff579ddc285f6ebb1f81f64dcd1336239523
